@@ -1,0 +1,10 @@
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+
+}
+.btn{
+    margin-left: 35%;
+    padding-top: 10%;
+}
